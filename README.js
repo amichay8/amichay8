@@ -34,6 +34,6 @@ A desktop application with a graphical interface for scanning files and simulati
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amichay8&show_icons=true&theme=tokyonight)
 
 ---
